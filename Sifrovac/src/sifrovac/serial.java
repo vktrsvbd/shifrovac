@@ -12,4 +12,7 @@ package sifrovac;
  */
 public class serial {
     
+    
+    int a;
+    
 }
