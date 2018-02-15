@@ -15,7 +15,36 @@ public class Sifrovac {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+        
+         System.out.println("jdeme na stavu .cz");
+        
+        
+        
+        public void cipherstring {
+    
+    
     
 }
+        
+        public void cipherfile{
+    
+    
+}
+        
+        public void decipherfile{
+    } 
+    
+}
+        public void decipherstring{
+    
+    
+    
+    
+}
+        
+        
+        
+}
+    
+    
+
