@@ -10,4 +10,5 @@ uloha na OOP
                                           
                                           
 Viktor: class load, class konstruktor sifry
+
 Tomas: main - deklarace class, calssy sifer
